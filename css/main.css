@@ -1473,4 +1473,8 @@ textarea.form-control {
     .work-item{
         margin: 5px;
     }
+    .btn-blue{
+        padding: 10px 45px;
+        margin-bottom: 10px;
+    }
 }
